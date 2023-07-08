@@ -238,7 +238,13 @@ $LANGS['rating'] = 'Bewertung';
 $LANGS['favorite'] = 'Favorit';
 $LANGS['addtofav'] = 'Favorisieren';
 $LANGS['removefav'] = 'Entfavorisieren';
+$LANGS['favadded'] = 'This video has been <strong>added</strong> to your <a href="/my_favorites">Favorites</a>.';
+$LANGS['favremoved'] = 'This video has been <strong>removed</strong> from your <a href="/my_favorites">Favorites</a>.';
+$LANGS['undo'] = 'Undo';
+$LANGS['thanksforrating'] = 'Thanks for rating!';
 $LANGS['playlistdesc'] = 'Um das Video einer Playlist hinzuzufügen, geh auf die <a href="/my_playlists">"Meine Playlisten"</a> Seite.';
+$LANGS['addtoplaylist'] = 'Add To Playlist';
+$LANGS['addtoplaylistsuccess'] = 'The video has been added to your playlist.';
 $LANGS['share'] = 'Teilen';
 $LANGS['flag'] = 'Melden';
 $LANGS['flagthisvid'] = 'Dieses Video melden';
@@ -280,6 +286,8 @@ $LANGS['logintopl'] = 'Möchtest du dieses Video zu einer Playlist hinzufügen? 
 $LANGS['logintoflag'] = 'Möchtest du dieses Video melden? <a href="/login">Loggen dich ein</a> oder <a href="/signup">registrier dich</a> jetzt!';
 $LANGS['close'] = 'schließen';
 $LANGS['addresponse'] = 'absenden';
+$LANGS['recentlyrated'] = 'Recently rated';
+$LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Alle Kommentare';
@@ -636,6 +644,9 @@ $LANGS['cat_YE'] = "Jemen";
 $LANGS['cat_ZM'] = "Sambia";
 $LANGS['cat_ZW'] = "Simbabwe";
 
+/* My Subscriptions */
+$LANGS['newvideos'] = "New Videos";
+
 /* Account */
 $LANGS['myaccount'] = "Mein Account";
 $LANGS['vidsfavs'] = "Videos, Favoriten and Playlisten";
@@ -701,6 +712,12 @@ $LANGS['cancel'] = "Abbrechen";
 /* Create Playlist */
 $LANGS['createplaylisttitle'] = "Video Playlist erstellen";
 $LANGS['createplaylist'] = "Playlist erstellen";
+
+/* View Playlist */
+$LANGS['plpermalink'] = "Playlist/URL (Permalink):";
+$LANGS['sortcomments'] = "Comments";
+$LANGS['unsorted'] = "Unsorted";
+$LANGS['playallvideos'] = "Play All Videos";
 
 /* Inbox */
 $LANGS['compose'] = "Verfassen";
@@ -971,6 +988,8 @@ $LANGS['aboutuploading'] = 'Lädt hoch...';
 $LANGS['uploaddesc1'] = 'Auf einer high-speed Verbindung braucht der Upload ca. 1-5 Minuten pro MB, und das Verarbeiten braucht auch ein paar Minuten.';
 $LANGS['videolimit1'] = 'Dein Video darf max. 100MB groß und 15 Minuten lang sein.';
 $LANGS['videolimit2'] = 'Dein Video darf max. 2GB groß und 15 Minuten lang sein.';
+$LANGS['partnervideolimit1'] = 'Dein Video darf max. 100MB groß und 30 Minuten lang sein.';
+$LANGS['partnervideolimit2'] = 'Dein Video darf max. 2GB groß und 30 Minuten lang sein.';
 $LANGS['myvideosdesc'] = 'Nach dem Hochladen kannst du das Video jederzeit unter "<a href="/my_videos">Meine Videos</a>" bearbeiten oder löschen.';
 $LANGS['newuploader'] = 'Den neuen Videouploader benutzen';
 $LANGS['olduploader'] = 'Den alten Videouploader benutzen';

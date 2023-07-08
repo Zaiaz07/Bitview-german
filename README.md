@@ -15,11 +15,12 @@ Bonjour! You can now create translations for BitView. Please, use en-US.php as a
 | Español (España) | 100% | Herotrap
 | Español (Latinoamérica) | 100% | Herotrap
 | Polski (pl) | 100% | vistafan12
-| Français (France) | 15% | ipluxteamx
+| Français (France) | 50% | ipluxteamx
 | Русский (RU) | 100% | purpletheblaze, CoolestGuy94
 | Deutsch | 100% | realdantopf
-| Hrvatski (HR) | 35% | HelluvaEmployee
-| Србски (SR) | 35% | HelluvaEmployee
+| Hrvatski (HR) | 100% | HelluvaEmployee
+| Србски (SR) | 100% | HelluvaEmployee
 | Català | 10% | Herotrap
 | Galego | 25% | dswitchfofo
 | Română | 70% | conneath
+| 한국인 | 100% | vistafan12
